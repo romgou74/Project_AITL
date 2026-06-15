@@ -15,7 +15,7 @@ The following metrics were computed for each consent notice :
 - Flesch-Kincaid Grade Level : US school grade level required
 - SMOG Index : Years of education required
 - Gunning Fog Index : Years of education based on complex words
-- Dale-Chall Score : Difficulty based on complex words
+- Dale-Chall Score : Difficulty based on complex words (scale of 1-10+)
 - Difficult words score : Difficulty based on unfamiliar vocabulary
 (pre-processing was handled automatically for the above metrics, as we used the python library textstat to compute them)
 
@@ -27,13 +27,27 @@ For the moment, I applied the code on one consent form and obtained the followin
 ```python
 Flesch Reading ease : 26.615238095238112
 Flesch-Kincaid Grade Level: 14.764021164021162
-SMOF Index : 16.18397175987059
+SMOG Index : 16.18397175987059
 Gunning Fox : 17.712169312169312
 Dale-Chall : 10.526248148148149
-Difficult words : 50
+Difficult words : 0.26455026455026454
 ```
-and 
+- Flesch Reading ease is quite low, falls in the very difficult category  
+- Flesch-Kincaid Grade level translates to a 3rd year university level  
+- SMOG Index also shows that the reader needs a postgraduate level reading  
+- Gunning fox recommends 17+ years of education  
+- Dale-Chall is above a 10, so it shows that the text is essentially of the maximum difficulty  
+- Difficult words shows that there are 25% of words are flagged as uncommon/difficult   
+So all these tests point to the fact that this consent form is very difficult to read.  
+We need to look at benchmark to continue => average EU adult reading level, could also compute newspapers that everyone reads to see what general language people are expecting
+
+and  
+
+ 
 ```python
 15.75 # average sentence length
 6.0 # amount of vague/ambiguous words avery 100 words
 ```
+
+The average length here is not too much  
+However, 6 out 100 words are ambiguous, which is quite high  
