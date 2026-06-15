@@ -84,7 +84,7 @@ def vague_find(file) :
     count = 0
     text_no_punct = text.translate(str.maketrans('', '', string.punctuation))
     words = text_no_punct.split()
-    if words in vague_words :
+    for words in vague_words :
         count += 1
     return count/len(words)
 
