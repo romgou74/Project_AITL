@@ -20,8 +20,9 @@ with open("./data/forms.txt", "r") as f:
 
 def cleaning_file(file) :
     """Function which 'cleans' up the file containing consent forms.
-    Whitespaces, special characters and numbers are removed but punctuation is kept and no lemmatization is done.
-    We also make the words case insensitive (removing caps).
+    Whitespaces and html tags are removed but punctuation is kept and no lemmatization is done.
+    We also make the words case insensitive (removing caps), and add a dot at the end of each
+    line where there was only a line break to ensure that different lines are not merged.
     Input : 
         file (str) : file that we want to clean up
     Return : 
@@ -43,6 +44,11 @@ def cleaning_file(file) :
 text = cleaning_file(text)
 
 def sentence_length(file) :
+    """Function which computes the average sentence length in a consent form
+    Input :
+        file (str) : consent form that we wish to examine
+    Return :
+        (int) : average amount of words per sentence in this consent form"""
     sentences = re.split(r'[.!?]', text)
     sentences = [s.strip() for s in sentences if s.strip()]
     count = [len(s.split()) for s in sentences]
@@ -51,6 +57,11 @@ def sentence_length(file) :
 print(sentence_length(text))
 
 def vague_find(file) :
+    """Function which computes the ratio of vague words for every 100 words in a consent form
+    Input :
+        file (str) : consent form that we wish to examine
+    Return :
+        (int) : ratio of vague words in that consent form"""
     count = 0
     text_no_punct = text.translate(str.maketrans('', '', string.punctuation))
     words = text_no_punct.split()
