@@ -8,11 +8,30 @@ vague_words = [
     "some", "certain", "various", "several", "many", "few",
     # Vague adjectives
     "appropriate", "relevant", "necessary", "suitable", "reasonable",
-    "adequate", "sufficient",
+    "adequate", "sufficient", "similar", "standard", "personalized",
+    "customized", "enhanced", "improved",
+
     # Vague nouns/purposes
     "purposes", "interests", "legitimate", "improve", "enhancement",
+    "insights", "preferences", "experience", "services", "features"
+
+    # Vague data language
+    "information", "content", "activity",
+    "behavior", "patterns", "usage", "interactions",
+    
+    # Vague third party language
+    "partners", "third parties", "vendors", "providers", "affiliates",
+    
+    # Vague actions
+    "process", "collect", "use", "share", "store", "access",
+    "measure", "analyze", "track", "monitor",
+    
     # Vague adverbs
-    "sometimes", "occasionally", "generally", "typically", "usually"
+    "sometimes", "occasionally", "generally", "typically", "usually",
+    "approximately", "substantially",
+    
+    # Vague timing
+    "periodically", "regularly", "occasionally", "temporarily"
 ]
 
 with open("./data/forms.txt", "r") as f:
