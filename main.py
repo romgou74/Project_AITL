@@ -25,7 +25,7 @@ def cleaning_file(file) :
     Input : 
         file (str) : file that we want to clean up
     Return : 
-        clean_forms : the cleaned up forms"""
+        clean_forms (str) : the cleaned up forms"""
  
     file = re.sub(r'<[^>]+>', '', file)  # remove HTML tags
     lst = file.split('\n')
@@ -43,6 +43,12 @@ def cleaning_file(file) :
 text = cleaning_file(text)
 
 def sentence_length(file) :
+    sentences = re.split(r'[.!?]', text)
+    sentences = [s.strip() for s in sentences if s.strip()]
+    count = [len(s.split()) for s in sentences]
+    return sum(count)/len(count)
+
+print(sentence_length(text))
 
 def vague_find(file) :
     count = 0
