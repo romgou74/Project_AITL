@@ -23,4 +23,17 @@ We also computed the average sentence length (mean number of words per sentence)
 For these metrics, minimal preprocessing was applied, as to preserve the natural reading of the text. However, HTML tags, trailing and extra whitespace were removed. Line breaks were replaced with periods where no sentence-ending punctuation was present, and text was put at a lower-case (only for the vague words counting). We opted for no lemmatization, stemming or removal of stopwords which would modify the natural flow of the sentences.
 
 ## First Results and observations
-
+For the moment, I applied the code on one consent form and obtained the following results : 
+```python
+Flesch Reading ease : 26.615238095238112
+Flesch-Kincaid Grade Level: 14.764021164021162
+SMOF Index : 16.18397175987059
+Gunning Fox : 17.712169312169312
+Dale-Chall : 10.526248148148149
+Difficult words : 50
+```
+and 
+```python
+15.75 # average sentence length
+6.0 # amount of vague/ambiguous words avery 100 words
+```
