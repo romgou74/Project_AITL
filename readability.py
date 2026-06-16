@@ -1,5 +1,6 @@
 import textstat
 import re
+import sys
 
 """
 Flesch Reading Ease
@@ -9,7 +10,9 @@ SMOG Index
 Dale-Chall
 """
 
-with open("./data/forms.txt", "r") as f:
+filename = sys.argv[1]
+
+with open(filename, "r") as f:
     text = f.read()
 
 file = re.sub(r'<[^>]+>', '', text)  # remove HTML tags
@@ -25,7 +28,6 @@ file = re.sub(r'\s+', ' ', file).strip()  # normalize whitespace
 cleaned = file.lower()
 cleaned = re.sub(r"[^\w\s]", "", text)
 cleaned = cleaned.split()
-print(len(cleaned))
 
 print(f"Flesch Reading ease : {textstat.flesch_reading_ease(text)}")
 print(f"Flesch-Kincaid Grade Level: {textstat.flesch_kincaid_grade(text)}")
