@@ -51,3 +51,20 @@ and
 
 The average length here is not too much  
 However, 6 out 100 words are ambiguous, which is quite high  
+
+## Results for different categories
+
+| Metric | Middle-aged | Senior |
+|---|---|---|
+| Flesch Reading Ease | 38.6 | 37.3 |
+| Flesch-Kincaid Grade Level | 12.8 | 12.9 |
+| SMOG Index | 14.1 | 14.0 |
+| Gunning Fog | 15.1 | 14.9 |
+| Dale-Chall | 10.8 | 11.4 |
+| Difficult Words Ratio | 0.124 | 0.109 |
+| Avg Sentence Length | 12.7 | 11.0 |
+| Vague Word Ratio | 6.0 | 6.0 |
+
+Visually, we can already see that there is extremely little difference between the readability difficulty for middle aged and senior groups.   
+We will run an ANOVA test to see whether the means of the metrics differ significantly across groups (here will have to motivate our choice for ANOVA).  
+(For the moment, we only have two categories running so I will do a t-test, also, I might replace the ANOVA for Kruskal-Wallis test due to small sample size).
