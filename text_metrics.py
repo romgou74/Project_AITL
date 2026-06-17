@@ -87,8 +87,8 @@ def vague_find(file) :
     count = 0
     text_no_punct = text.translate(str.maketrans('', '', string.punctuation))
     words = text_no_punct.split()
-    for words in vague_words :
-        count += 1
+    for word in vague_words:
+        count += len(re.findall(r'\b' + word + r'\b', text_no_punct))
     return count/len(words)
 
 print(f"Ratio of vague/ambiguous words : {vague_find(text)}")
