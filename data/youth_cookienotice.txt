@@ -4,11 +4,10 @@ With your consent, we use optional cookies for additional purposes, such as meas
 Essential cookies
 Essential cookies are necessary for TikTok to work as intended. This includes cookies which are necessary to provide, improve, protect and analyze our services.
 
-
 We use cookies and similar technologies to help provide and personalise content and ads, and to protect and improve your experience on .
-* •Essential cookies: These cookies are required to use Meta Products and are necessary for our sites to work as intended.
-* •Our cookies on other apps and websites: Other companies use our cookies and similar technologies, such as the Like button or Meta pixel, on their apps and websites. These cookies can be used to personalise your ads. These cookies are optional.
-* •Cookies from other companies: We use these cookies to show you ads off Meta Products and to provide features such as maps and videos on Meta Products. These cookies are optional.
+* Essential cookies: These cookies are required to use Meta Products and are necessary for our sites to work as intended.
+* Our cookies on other apps and websites: Other companies use our cookies and similar technologies, such as the Like button or Meta pixel, on their apps and websites. These cookies can be used to personalise your ads. These cookies are optional.
+* Cookies from other companies: We use these cookies to show you ads off Meta Products and to provide features such as maps and videos on Meta Products. These cookies are optional.
 You have control over the optional cookies that we use.
 We'll remember your cookie choices and apply them anywhere you're logged in to Facebook, and where you use your account to log in to other Meta Products.
 Learn more about cookies and how we use them in our .
@@ -16,36 +15,28 @@ Optional cookies
 Our cookies on other apps and websites
 We use cookies on apps and websites owned by other companies that use Meta technologies. These cookies help other companies share information with us about your activity on their apps and websites.
 
-
 When you visit these apps and websites, we use the information that we receive to:
-* •Personalise your experience on Meta Products and to show you ads, if we show you ads.
-* •Provide services to you off Instagram and Facebook, such as the ability to log in to other apps and websites using Facebook.
-* •Improve Meta Products by understanding for example if they are working correctly or if they need to be more tailored to people's needs.
-* •Help companies who use our tools to analyse and measure their ad performance.
+* Personalise your experience on Meta Products and to show you ads, if we show you ads.
+* Provide services to you off Instagram and Facebook, such as the ability to log in to other apps and websites using Facebook.
+* Improve Meta Products by understanding for example if they are working correctly or if they need to be more tailored to people's needs.
+* Help companies who use our tools to analyse and measure their ad performance.
 
+* You can continue using Facebook to log in to other apps and websites.
+* We'll use your individual cookie information to show you relevant ads, if we show you ads.
 
-* •You can continue using Facebook to log in to other apps and websites.
-* •We'll use your individual cookie information to show you relevant ads, if we show you ads.
-
-
-* •You'll be logged out of apps and websites where you've used Facebook to log in, and won't be able to use Facebook to log back in.
-* •We'll use limited information for security and integrity purposes. This includes monitoring for attempted attacks on systems, such as overloading our website with traffic.
-* •We will not use your individual cookie information to show you relevant ads.
-* •We may still receive aggregated information about activity on these apps and websites, but the aggregated information will not include your individual cookie information.
+* You'll be logged out of apps and websites where you've used Facebook to log in, and won't be able to use Facebook to log back in.
+* We'll use limited information for security and integrity purposes. This includes monitoring for attempted attacks on systems, such as overloading our website with traffic.
+* We will not use your individual cookie information to show you relevant ads.
+* We may still receive aggregated information about activity on these apps and websites, but the aggregated information will not include your individual cookie information.
 Cookies from other companies
 We use cookies from in order to show you ads off our Products, and provide features such as maps, payment services and video.
 
+* Features that you use on Meta Products will not be affected.
+* We'll be able to better personalise ads for you off Meta Products and measure their performance.
+* Other companies will receive information about you by using their cookies.
 
-
-
-* •Features that you use on Meta Products will not be affected.
-* •We'll be able to better personalise ads for you off Meta Products and measure their performance.
-* •Other companies will receive information about you by using their cookies.
-
-
-* •Some features on our products may not work.
-* •We won't use cookies from other companies to personalise ads for you off Meta products, or measure their performance.
-
+* Some features on our products may not work.
+* We won't use cookies from other companies to personalise ads for you off Meta products, or measure their performance.
 
 Cookies
 Cookies help us:
@@ -54,87 +45,105 @@ Cookies help us:
 * Understand how you use this website.
 * Deliver relevant ads and measure their effectiveness.
 To continue, select one of the following options:
-Cookie Menu for an a la carte cookie experience.
-Accept All for all cookies and the most enhanced experience.
-Essential Only for the most basic experience.
-Interested in the details? Read our Cookie Policy
+Cookie Menu for an a la carte cookie experience.
+Accept All for all cookies and the most enhanced experience.
+Essential Only for the most basic experience.
+Interested in the details? Read our Cookie Policy
 
-
-We may receive information from cookies (small text files placed on your computer or device) and similar technologies. First-party cookies are placed by us (and our third-party service providers) and allow you to use the services and help us analyze and improve your experience and the services. You can control cookies as described in the “How to control your privacy” section of Discord’s Privacy Policy. The services use the following types of cookies:
+We may receive information from cookies (small text files placed on your computer or device) and similar technologies. First-party cookies are placed by us (and our third-party service providers) and allow you to use the services and help us analyze and improve your experience and the services. You can control cookies as described in the "How to control your privacy" section of Discord's Privacy Policy. The services use the following types of cookies:
 * Strictly Necessary Cookies: These are required for services to function and to meet our legal obligations. If you try to use tools to disable these cookies, parts of the services may not work properly.
 * Functional Cookies: These help us provide enhanced functionality on the services like remembering language preferences. Disabling these could affect some service functionality.
 * Performance Cookies: These allow us or our third-party analytics providers to learn how you and others use and engage with the services so we can understand and improve them.
 Manage cookies
 To control how information is collected and used from cookies on the services, you can take one or more of the following steps.
-* You can disable and manage some cookies through your browser settings. You will need to manage your settings for each browser you use. You can find instructions for how to manage Cookies in popular browsers such as Internet Explorer, Firefox, Chrome, Safari (iOS), Safari (Mac), and Opera.
+* You can disable and manage some cookies through your browser settings. You will need to manage your settings for each browser you use. You can find instructions for how to manage Cookies in popular browsers such as Internet Explorer, Firefox, Chrome, Safari (iOS), Safari (Mac), and Opera.
 * To disable analytics cookies, you can use the browser controls discussed above or, for certain providers, you can use their individual opt-out mechanisms, such as Google Analytics Opt-Out.
 * Your mobile device may also include browser settings to manage the use of cookies. Your device may also have settings to control the collection and use of information in your apps.
-* Third party groups also enable you to limit how cookies are used for advertising purposes by participating third parties. You can learn more at Network Advertising Initiative, the Digital Advertising Alliance, and for users in the EU, the European Interactive Digital Advertising Alliance.
-* Depending on where you are accessing our services, you may be able to adjust your cookie preferences at any time through a cookies banner or by selecting “Cookie Settings” from the footer or menu on our website.
+* Third party groups also enable you to limit how cookies are used for advertising purposes by participating third parties. You can learn more at Network Advertising Initiative, the Digital Advertising Alliance, and for users in the EU, the European Interactive Digital Advertising Alliance.
+* Depending on where you are accessing our services, you may be able to adjust your cookie preferences at any time through a cookies banner or by selecting "Cookie Settings" from the footer or menu on our website.
 If you disable or remove cookies, some parts of the services may not function properly. Information may be collected to remember your opt-out preferences.
-Questions or concerns about your privacy? You can email us at privacy@discord.com.
-
+Questions or concerns about your privacy? You can email us at privacy@discord.com.
 
 This policy describes how Spotify uses cookies and similar technologies (collectively, "cookies"). In this document, we call this the 'Policy'. The purpose of this Policy is to provide clear information about Spotify's use of cookies and similar technologies. It applies to anyone who uses Spotify's services or websites (collectively, the "Services"). This policy also explains the choices you have for managing your cookie settings.
 1. What are cookies?
-Cookies and similar technologies, such as pixel tags, are small files that are downloaded to your device. In this policy, we refer to these collectively as "cookies". These files are placed on your device when you use Spotify's features, for example, if you visit our website, use our app, view one of our advertisements, or open an email from us. You can find more general information about cookies at: www.youronlinechoices.eu.
+Cookies and similar technologies, such as pixel tags, are small files that are downloaded to your device. In this policy, we refer to these collectively as "cookies". These files are placed on your device when you use Spotify's features, for example, if you visit our website, use our app, view one of our advertisements, or open an email from us. You can find more general information about cookies at: www.youronlinechoices.eu.
 2. How do we use cookies?
 Cookies have many different functions. This allows you to switch pages more efficiently with cookies. Cookies can also remember your preferences and help to improve your user experience. In doing so, they can help ensure that ads you see online are more relevant to you and your interests. We use cookies for our website and services and in our emails. They also show us how users interact with our content. These technologies are managed through our cookie banner. They may be managed based on your consent preferences.
-In addition to cookies, Spotify may create or use pseudonymous universal identifiers. These are based on the personal data you provide, such as your email address, IP address and telephone number. This universal identifier may be shared with third parties. As with cookies, various websites and applications can recognize you through this data. For example, advertisements can be shown that match your interests and how services are used. In our cookie banner, you can indicate whether you want your personal data to be used for the creation of universal identifiers. See Section 3 Options for Managing Cookies and Tailored Advertising.
+In addition to cookies, Spotify may create or use pseudonymous universal identifiers. These are based on the personal data you provide, such as your email address, IP address and telephone number. This universal identifier may be shared with third parties. As with cookies, various websites and applications can recognize you through this data. For example, advertisements can be shown that match your interests and how services are used. In our cookie banner, you can indicate whether you want your personal data to be used for the creation of universal identifiers. See Section 3 Options for Managing Cookies and Tailored Advertising.
 Spotify uses two different main categories of cookies: (1) strictly necessary cookies and (2) optional cookies:
 * Strictly necessary cookies
 These cookies are set by Spotify or a third party on our behalf and are necessary to use the features of our Services. This includes viewing content, setting your privacy preferences, logging in, making payments for services, or filling out forms. Without these cookies, we cannot provide our Services, so you cannot refuse them.
 * Optional cookies
 Optional cookies can be 'first-party cookies' or 'third-party cookies'. What they are is explained in the table below. Optional cookies also differ depending on the purpose for which they are used, as explained in the first column.
-First-party cookies: These are cookies set by Spotify or by a third party on our behalfOptional cookie typeGoalsFunctional first-party cookiesThese cookies allow our Services to remember choices you make (such as your user name, language, or current region) and provide enhanced, more personalized features and content. For example, these cookies can be used to remember changes you have made to customisable areas of web pages. If you do not allow these cookies, some choices you have made on previous visits to our Services will not be stored.First-party performance cookiesThese cookies collect data about how visitors use our Services. These cookies allow us, for example, to count the number of visits to our website and to gain insight into how visitors found the website. They also help us to find out which pages are the most and least popular, and to see how visitors use our Services. All of this helps us to measure and improve the performance of our Services. If you do not allow these cookies, we will not receive any data about your use of our Services that will allow us to track the performance of our Services.Own targeting cookiesThese cookies collect information about your browsing habits so that we can show you adverts that are more relevant to you and so that we can understand your interests. They are also used to limit the number of times you see an ad and to measure the effectiveness of the ads that Spotify shows. These cookies record that you have visited a website and this information may be shared with other organisations, such as advertisers. If you do not allow these cookies, you will still see advertisements, but they will not be as relevant to your interests.
-Third-party cookies: These are cookies that are placed directly by a third party, or that are placed by Spotify at the request of a third party, such as our analytics or advertising service providers. You can view a list of these partners via this link by expanding the relevant cookie category and clicking on List of IAB Vendors.Content selection, delivery, and reportingThird-party cookies are set for the following purposes related to the selection, delivery and reporting of content:
+First-party cookies: These are cookies set by Spotify or by a third party on our behalf
+Optional cookie type
+Goals
+Functional first-party cookies
+These cookies allow our Services to remember choices you make (such as your user name, language, or current region) and provide enhanced, more personalized features and content. For example, these cookies can be used to remember changes you have made to customisable areas of web pages. If you do not allow these cookies, some choices you have made on previous visits to our Services will not be stored.
+First-party performance cookies
+These cookies collect data about how visitors use our Services. These cookies allow us, for example, to count the number of visits to our website and to gain insight into how visitors found the website. They also help us to find out which pages are the most and least popular, and to see how visitors use our Services. All of this helps us to measure and improve the performance of our Services. If you do not allow these cookies, we will not receive any data about your use of our Services that will allow us to track the performance of our Services.
+Own targeting cookies
+These cookies collect information about your browsing habits so that we can show you adverts that are more relevant to you and so that we can understand your interests. They are also used to limit the number of times you see an ad and to measure the effectiveness of the ads that Spotify shows. These cookies record that you have visited a website and this information may be shared with other organisations, such as advertisers. If you do not allow these cookies, you will still see advertisements, but they will not be as relevant to your interests.
+
+Third-party cookies: These are cookies that are placed directly by a third party, or that are placed by Spotify at the request of a third party, such as our analytics or advertising service providers. You can view a list of these partners via this link by expanding the relevant cookie category and clicking on List of IAB Vendors.
+Content selection, delivery, and reporting
+Third-party cookies are set for the following purposes related to the selection, delivery and reporting of content:
 * sharing our content with your friends and social media networks;
-* compiling a profile about you and your interests. This may affect the content and posts you see on other websites you visit.Personalized adsThird-party cookies are placed for the following purposes related to personalized advertising:
+* compiling a profile about you and your interests. This may affect the content and posts you see on other websites you visit.
+Personalized ads
+Third-party cookies are placed for the following purposes related to personalized advertising:
 * using profiles to select personalized ads: you may see personalized ads based on a user profile or other historical user data;
 * creating personalised advertising profiles: a profile about you and your interests may be created so that we can show you personalised advertisements that are relevant to you; and
-* Using limited data to select ads: You may see ads that collect information in real time about the context in which the ad appears, such as the content you're viewing, the app you're using, your approximate location, or the type of device you're using.Personalized contentThird-party cookies are placed for the following purposes regarding personalized content:
+* Using limited data to select ads: You may see ads that collect information in real time about the context in which the ad appears, such as the content you're viewing, the app you're using, your approximate location, or the type of device you're using.
+Personalized content
+Third-party cookies are placed for the following purposes regarding personalized content:
 * creating a personalised content profile: a profile about you and your interests may be created so that we can show you personalised content that is relevant to you; and
-* Using profiles to select personalized content: You may see personalized content based on a user profile or other historical user data.Advertising and content measurement, audience research and service developmentThird-party cookies are placed for the following purposes related to ad and content measurement, audience insight, and product development:
+* Using profiles to select personalized content: You may see personalized content based on a user profile or other historical user data.
+Advertising and content measurement, audience research and service development
+Third-party cookies are placed for the following purposes related to ad and content measurement, audience insight, and product development:
 * Measuring ad performance: The performance and effectiveness of ads that you see or interact with can be measured.
 * developing and improving services: your data may be used to improve existing systems and software and to develop new products;
 * Understand audiences through statistics or combinations of data from different sources: Market research can be applied to learn more about the audience that visits sites/apps and views ads. and
-* Measuring content performance: The performance and effectiveness of content that you see or interact with can be measured.'Always active' purposesThird-party cookies are also placed for the purposes listed below. We call these purposes 'always active', but you can still disable them, just like the other optional cookies (see section 3 below):
+* Measuring content performance: The performance and effectiveness of content that you see or interact with can be measured.
+'Always active' purposes
+Third-party cookies are also placed for the purposes listed below. We call these purposes 'always active', but you can still disable them, just like the other optional cookies (see section 3 below):
 * ensuring security, preventing fraud and resolving problems: your data can be used to detect and prevent fraudulent activity, and to ensure that systems and processes are working properly and securely;
 * delivering and serving ads or content: Your device may receive and transmit information that allows you to see and interact with ads and content;
 * storing and communicating about privacy preferences: the preferences you indicate in relation to the purposes and entities listed in this statement will be stored and made available to those entities in the form of digital signals (such as a string of characters);
 * Matching and combining other sources: Data from offline data sources can be combined with your online activity for multiple purposes;
 * identifying devices based on automatically transmitted information: we can distinguish your device from other devices based on information it sends automatically, such as your IP address or browser type; and
 * Linking different devices: It can be determined which devices belong to you or your household for one or more purposes.
-We call these purposes "always active."3. Options for managing cookies and tailored advertising
+We call these purposes "always active."
+3. Options for managing cookies and tailored advertising
 This section explains how you can manage your cookie preferences based on the type of cookie and the device you are using. You may need to combine two or more options to manage cookies across all of your devices.
 Consent management platform
-Spotify uses a consent management platform. This is also called a CMP (Consent Management Platform) or cookie banner. This allows you to manage your cookie preferences and allows us to keep track of what you have consented to. You can view the CMP and your cookie settings via this link.
+Spotify uses a consent management platform. This is also called a CMP (Consent Management Platform) or cookie banner. This allows you to manage your cookie preferences and allows us to keep track of what you have consented to. You can view the CMP and your cookie settings via this link.
 With the CMP, you can:
-* Accept cookies to allow optional cookies set by us and our third-party partners or;
-* Reject all to refuse all optional cookies;
-* Indicate your preferences for first-party cookies, per cookie category (see section 2 How do we use cookies?)
+* Accept cookies to allow optional cookies set by us and our third-party partners or;
+* Reject all to refuse all optional cookies;
+* Indicate your preferences for first-party cookies, per cookie category (see section 2 How do we use cookies?)
 * You can manage your preferences for third-party cookies based on:
 o the purpose of the processing;
 o the legal basis for this processing, or;
 o The third-party
-partners involved You can turn off all third-party cookies using the button next to "Save and/or view data" on your device. As explained above, we refer to certain purposes for optional third-party cookies as "always active." If you do not want cookie data to be processed for these purposes, you can turn off 'Store and/or view data'; and
+partners involved You can turn off all third-party cookies using the button next to "Save and/or view data" on your device. As explained above, we refer to certain purposes for optional third-party cookies as "always active." If you do not want cookie data to be processed for these purposes, you can turn off 'Store and/or view data'; and
 * U afmelden voor het maken of gebruiken van universele identificatiegegevens voor advertentiedoeleinden. Spotify genereert of gebruikt geen universele identificatiecode om advertenties op maat te tonen indien u:
 o alle optionele cookies hebt afgewezen, of;
-o zich hebt afgemeld voor advertenties op maat (ook wel 'op interesses gebaseerde advertenties' genoemd) op Spotify door de knop voor advertenties op maat uit te zetten op de pagina Accountprivacy van uw Spotify-account
-* Sommige van onze partners van derden kunnen zich baseren op gerechtvaardigd belang als juridische grondslag voor het gebruik van cookies of het verwerken van uw gegevens, in plaats van om uw toestemming te vragen. Dit betekent dat zij van mening zijn dat hun gebruik van uw gegevens nodig is om bepaalde diensten te verlenen of om hun bedrijf te ondersteunen, en dat het uw rechten en belangen niet opheft. In ons CMP kunt u bekijken welke partners zich baseren op gerechtvaardigde belangen. Wanneer een partner gebruikmaakt van gerechtvaardigde belangen, hebt u nog steeds het recht om bezwaar te maken tegen de verwerking door deze partner. U kunt dit recht rechtstreeks in het CMP uitoefenen door de instelling voor de cookies van de relevante partner en het doel uit te zetten. U kunt ook bezwaar maken tegen alle verwerkingen op basis van gerechtvaardigd belang door alle optionele cookies in het CMP af te wijzen of door de instelling voor advertenties op maat uit te zetten.
-Als u uw keuzes via het CMP wilt bijwerken, gaat u naar deze link.
+o zich hebt afgemeld voor advertenties op maat (ook wel 'op interesses gebaseerde advertenties' genoemd) op Spotify door de knop voor advertenties op maat uit te zetten op de pagina Accountprivacy van uw Spotify-account
+* Sommige van onze partners van derden kunnen zich baseren op gerechtvaardigd belang als juridische grondslag voor het gebruik van cookies of het verwerken van uw gegevens, in plaats van om uw toestemming te vragen. Dit betekent dat zij van mening zijn dat hun gebruik van uw gegevens nodig is om bepaalde diensten te verlenen of om hun bedrijf te ondersteunen, en dat het uw rechten en belangen niet opheft. In ons CMP kunt u bekijken welke partners zich baseren op gerechtvaardigde belangen. Wanneer een partner gebruikmaakt van gerechtvaardigde belangen, hebt u nog steeds het recht om bezwaar te maken tegen de verwerking door deze partner. U kunt dit recht rechtstreeks in het CMP uitoefenen door de instelling voor de cookies van de relevante partner en het doel uit te zetten. U kunt ook bezwaar maken tegen alle verwerkingen op basis van gerechtvaardigd belang door alle optionele cookies in het CMP af te wijzen of door de instelling voor advertenties op maat uit te zetten.
+Als u uw keuzes via het CMP wilt bijwerken, gaat u naar deze link.
 Please note that you cannot withdraw your consent to cookies that are strictly necessary for the operation of the service.
 Spotify participates in the IAB Europe Transparency and Consent Framework and adheres to its rules and policies. We use the CMP with the identification number 28.
 Settings of your web browser
-You can also use your web browser settings to accept, reject and delete cookies. To do this, follow the instructions provided by your browser (which can usually be found under 'Help', 'Options' or 'Edit').
+You can also use your web browser settings to accept, reject and delete cookies. To do this, follow the instructions provided by your browser (which can usually be found under 'Help', 'Options' or 'Edit').
 Mobile device settings
 On your mobile device, your operating system may provide options to opt out of interest-based advertising or to reset your mobile identifiers. This unique identifier works similarly to a cookie and is in the form of a unique code that can be used to identify a mobile device. For example, you can use the "Allow app tracking requests" setting on iOS devices or the "Opt out of interest-based ads" setting on Android devices. These settings allow you to limit how apps use information about your use of apps to show ads tailored to your interests.
 Enable/disable customized ads
-In the Spotify service, you can opt out of tailored advertising. To do this, turn off the Custom Ads button on the Account Privacy page of your Spotify account. If you turn off tailored ads, Spotify will no longer share your data with third-party advertising partners. Spotify will therefore stop using the data of these partners to show you tailored ads. You may still see ads on the Services based on your Spotify registration information and how you use Spotify in real time. These ads may be less relevant to you.
-Certain tailored ads served by Spotify or by a service provider on our behalf may include the AdChoices icon. This icon or a similar tool allows you to opt out of tailored ads. You can click on the AdChoices icon or go to www.aboutads.info to:
+In the Spotify service, you can opt out of tailored advertising. To do this, turn off the Custom Ads button on the Account Privacy page of your Spotify account. If you turn off tailored ads, Spotify will no longer share your data with third-party advertising partners. Spotify will therefore stop using the data of these partners to show you tailored ads. You may still see ads on the Services based on your Spotify registration information and how you use Spotify in real time. These ads may be less relevant to you.
+Certain tailored ads served by Spotify or by a service provider on our behalf may include the AdChoices icon. This icon or a similar tool allows you to opt out of tailored ads. You can click on the AdChoices icon or go to www.aboutads.info to:
 * Learn more about how information about your online activities is collected and used for tailored advertising; or
 * choose not to have your data used for tailored advertising by companies that participate in the Digital Advertising Alliance (DAA)
-European users can visit www.youronlinechoices.com to learn more about how to opt out of tailored advertising from companies that are members of the European Interactive Digital Advertising Alliance (EDAA).
+European users can visit www.youronlinechoices.com to learn more about how to opt out of tailored advertising from companies that are members of the European Interactive Digital Advertising Alliance (EDAA).
 4. Updates to this Policy
 We may make changes to this policy from time to time.
 If we make material changes to this Policy, we will notify you. We do this with a report that suits the situation. For example, we may display a prominent notification in the Spotify Service or send you an email or a notification on your device.
@@ -144,36 +153,30 @@ Thank you for reading this Policy. If you have any questions or comments about t
 * by letter: Spotify AB, Regeringsgatan 19, 111 53 Stockholm, Sweden
 We hope you enjoy using Spotify.
 
-
-These cookies are strictly necessary to provide the Netflix service. For example, we and our Service Providers may use these cookies to authenticate and identify users when they use our websites so we can provide our service to them. They also help us to administer and operate our business; for safety, security and fraud prevention; and to comply with law and enforce our Terms of Use. As these cookies are strictly necessary to provide our service, you cannot opt out of them.
+These cookies are strictly necessary to provide the Netflix service. For example, we and our Service Providers may use these cookies to authenticate and identify users when they use our websites so we can provide our service to them. They also help us to administer and operate our business; for safety, security and fraud prevention; and to comply with law and enforce our Terms of Use. As these cookies are strictly necessary to provide our service, you cannot opt out of them.
 
 Lifespan: Most cookies are session cookies (e.g. only active until you close your browser). Some cookies are active for a longer time, ranging from 3 to 12 months. The cookies used to prevent fraud and maintain the security or our services are active for a maximum period of 24 months.
 
-
-We use cookies & similar technologies to improve and personalise your user experience, deliver adverts to your interests on third party platforms and analyse our web traffic. Cookie policy
+We use cookies & similar technologies to improve and personalise your user experience, deliver adverts to your interests on third party platforms and analyse our web traffic. Cookie policy
 Edit
 Inferred signals about you
-Allow Pinterest to use information like your offsite data and inferences about your preferences to further personalize the ideas you see. Learn more
+Allow Pinterest to use information like your offsite data and inferences about your preferences to further personalize the ideas you see. Learn more
 
-
-
-By clicking “Accept All”, you agree to the use of analytics cookies to measure our audience, analyze product usage, and improve our website. You can find out more by reading our Cookie Policy.
-
+By clicking "Accept All", you agree to the use of analytics cookies to measure our audience, analyze product usage, and improve our website. You can find out more by reading our Cookie Policy.
 
 Review your cookie preferences
-Reddit uses cookies and similar technologies to keep the app operational and running properly, prevent fraud and abuse, monitor site usage and performance metrics. If you choose “Accept All” we’ll also use cookies to personalize your recommendations and ads based on your settings, measure the performance of ads, develop and improve new features and services. If you choose “Reject Optional Cookies” we won’t use cookies for these additional uses. You can update this preference using the “Customize” button below or any time from your Account Settings.Learn more about Reddit's use of cookies and similar technologies
+Reddit uses cookies and similar technologies to keep the app operational and running properly, prevent fraud and abuse, monitor site usage and performance metrics. If you choose "Accept All" we'll also use cookies to personalize your recommendations and ads based on your settings, measure the performance of ads, develop and improve new features and services. If you choose "Reject Optional Cookies" we won't use cookies for these additional uses. You can update this preference using the "Customize" button below or any time from your Account Settings.Learn more about Reddit's use of cookies and similar technologies
 
-
-This Cookie Notice applies to your use of www.twitch.tv, and any other websites, applications, or services provided by Twitch Interactive, Inc. (with its affiliates, “Twitch”, “we” or “us”) that link to this Cookie Notice (collectively, the “Twitch Services”).
-Twitch uses certain technologies to collect information through Twitch Services. In this Cookie Notice, we refer to these technologies, which include HTTP cookies, local storage, pixel tags and web beacons, collectively as “cookies.”
-This notice explains the different types of cookies used on Twitch Services and how you can control them. We reserve the right to change, supplement or replace this Cookie Notice at any time. Please refer to the “last modified” legend at the top of this page to see when this Cookie Notice was last revised.
-By visiting www.twitch.tv, creating your Twitch account, or using the Twitch Services, you are accepting the information handling practices and storage, and access of cookies as described in this Cookie Notice. We hope that this notice helps you understand, and feel more confident about, our use of cookies. If you have any further questions, please contact us at privacy@twitch.tv.
+This Cookie Notice applies to your use of www.twitch.tv, and any other websites, applications, or services provided by Twitch Interactive, Inc. (with its affiliates, "Twitch", "we" or "us") that link to this Cookie Notice (collectively, the "Twitch Services").
+Twitch uses certain technologies to collect information through Twitch Services. In this Cookie Notice, we refer to these technologies, which include HTTP cookies, local storage, pixel tags and web beacons, collectively as "cookies."
+This notice explains the different types of cookies used on Twitch Services and how you can control them. We reserve the right to change, supplement or replace this Cookie Notice at any time. Please refer to the "last modified" legend at the top of this page to see when this Cookie Notice was last revised.
+By visiting www.twitch.tv, creating your Twitch account, or using the Twitch Services, you are accepting the information handling practices and storage, and access of cookies as described in this Cookie Notice. We hope that this notice helps you understand, and feel more confident about, our use of cookies. If you have any further questions, please contact us at privacy@twitch.tv.
 What is a Cookie?
 Cookies are small text files that are stored on your devices. When you access a website, a cookie is placed on your device, and it will send information to the party that placed the cookie.
 Cookies are widely used in order to make websites and software applications work, or work in a better, more efficient way. They can do this because websites and software applications can read and write these files, enabling them to recognize a particular device and remember important information that will make your use of a website or software application more convenient (e.g., by remembering your user preferences).
 Please be aware that if cookies are disabled, not all features of the Twitch Services or Extensions may operate as intended. Some mobile operating systems may further limit the use of cookies and similar technologies; your choices do not override those more limited settings on such mobile devices.
 What Cookies do we use and why do we use them?
-There are different types of cookies we may use when you visit www.twitch.tv, create your Twitch account or use the Twitch Services.
+There are different types of cookies we may use when you visit www.twitch.tv, create your Twitch account or use the Twitch Services.
 Time-Based Cookie:
 Session cookies:
 Session cookies are cookies that last until you close your browser. This cookie is temporary and lasts for the duration of your visit for Twitch Services. Once a session ends, the cookie is automatically deleted.
@@ -194,39 +197,31 @@ These cookies are critical to the operation of the Twitch Services. These cookie
 Analytics Cookie:
 Analytics cookies (also known as performance cookie) are a type of cookie used to measure how users interact with the Twitch Services website. Their primary purpose is to help site owners understand and improve site performance.
 Advertising Cookies:
-Advertising cookies (also known as targeting or marketing cookies) are cookies that collect information about a user’s browsing activity, preferences, and device identifiers so that advertisers and publishers can deliver, measure, and optimize personalized advertising. That is, advertising cookies help Twitch and our advertising partners show you more relevant ads, and measure the effectiveness of ad campaigns.
+Advertising cookies (also known as targeting or marketing cookies) are cookies that collect information about a user's browsing activity, preferences, and device identifiers so that advertisers and publishers can deliver, measure, and optimize personalized advertising. That is, advertising cookies help Twitch and our advertising partners show you more relevant ads, and measure the effectiveness of ad campaigns.
 How can you control, manage, and delete cookies?
-When you first visit twitch.tv you may be shown a banner where you have options to control what cookies are placed on your device and how they are used. This banner varies by location, as different regions have different cookie requirements.
+When you first visit twitch.tv you may be shown a banner where you have options to control what cookies are placed on your device and how they are used. This banner varies by location, as different regions have different cookie requirements.
 If you are shown a cookie banner, you can revisit your cookie choices through Settings > Security and Privacy > Cookie Preferences.
 Additionally, anyone can prevent cookies from being stored or remove cookies already stored by adjusting the settings in your browser. You find help to adjust these settings on the website of the browser that you use. Remember that disabling cookies when visiting the Website may cause some or all of the functions of the Website not to work properly.
 For more information on how to manage the most popular browsers, see below:
-* Google Chrome: https://support.google.com/chrome/answer/95647?hl=en
-* Safari: https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac
-* Internet Explorer: https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies
-* Edge: https://support.microsoft.com/en-gb/help/4027947/microsoft-edge-delete-cookies
-* Firefox: https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer
-There are also online tools such as Digital Advertising Alliance’s Browser Check and European Digital Advertising Alliance’s Your Online Choices site that explain digital advertising and allow you to choose how cookies are used throughout the web based on your location and the device and browser you are using.
+* Google Chrome: https://support.google.com/chrome/answer/95647?hl=en
+* Safari: https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac
+* Internet Explorer: https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies
+* Edge: https://support.microsoft.com/en-gb/help/4027947/microsoft-edge-delete-cookies
+* Firefox: https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer
+There are also online tools such as Digital Advertising Alliance's Browser Check and European Digital Advertising Alliance's Your Online Choices site that explain digital advertising and allow you to choose how cookies are used throughout the web based on your location and the device and browser you are using.
 
+Did someone say ... cookies?
 
-Did someone say … cookies?
-
-X and its partners use cookies to provide you with a better, safer and faster service and to support our business. Some cookies are necessary to use our services, improve our services, and make sure they work properly. Show more about your choices.
-
+X and its partners use cookies to provide you with a better, safer and faster service and to support our business. Some cookies are necessary to use our services, improve our services, and make sure they work properly. Show more about your choices.
 
 We use cookies
-We use cookies to help this site function, understand service usage, and support marketing efforts. Visit Manage Cookies to change preferences anytime. View our Cookie Policy for more info.
-
+We use cookies to help this site function, understand service usage, and support marketing efforts. Visit Manage Cookies to change preferences anytime. View our Cookie Policy for more info.
 
 Cookies are small pieces of text used to store information in web browsers. Cookies are used to store and receive identifiers and other information on computers, phones and other devices. Other technologies, including data that we store on your web browser or device, identifiers associated with your device and other software, are used for similar purposes. In this policy, we refer to all of these technologies as "cookies".
 We use cookies if you have a Facebook or Instagram account, use the , including our website and apps, or visit other websites and apps that use the Meta Products (including the Like button). Cookies enable Meta to offer the Meta Products to you and to understand the information that we receive about you, including information about your use of other websites and apps, whether or not you are registered or logged in.
 This policy explains how we use cookies and the choices you have. Except as otherwise stated in this policy, the will apply to our processing of the data that we collect via cookies.
 Why do we use cookies?
 Cookies help us provide, protect and improve the Meta Products, such as by personalising content, tailoring and measuring ads, and providing a safer experience. The cookies that we use include session cookies, which are deleted when you close your browser, and persistent cookies, which stay in your browser until they expire or you delete them. The cookies that we may change over time as we improve and update Meta Products, we typically use them for the following purposes: 
-
-
-
-
-
 
 Where do we use cookies?
 We may place cookies on your computer or device and receive information stored in cookies when you use or visit:
@@ -240,9 +235,8 @@ Third-party companies also use cookies on their own sites and apps in connection
 How can you control your information?
 We use cookies to help personalise and improve content and services, provide a safer experience and to show you useful and relevant ads on and off Meta Products. You can control how we use data to show you ads and more by using the tools described below.
 
-
 Your Cookie Preferences
-We use cookies that are strictly necessary to provide rednote. We would also like to use optional cookies to improve your experience. We won't use optional cookies without your consent. Learn how we use cookies and how to manage your choices under Settings > Privacy Policy > Cookies Policy.
+We use cookies that are strictly necessary to provide rednote. We would also like to use optional cookies to improve your experience. We won't use optional cookies without your consent. Learn how we use cookies and how to manage your choices under Settings > Privacy Policy > Cookies Policy.
 Accept all cookies 
 Decline optional cookies
 
@@ -250,20 +244,14 @@ Letterboxd asks for your consent to use your personal data to:
 * Personalised advertising and content, advertising and content measurement, audience research and services development
 * Store and/or access information on a device
 Learn more
-Your personal data will be processed and information from your device (cookies, unique identifiers, and other device data) may be stored by, accessed by and shared with 637 partners, or used specifically by this site. We and our partners may use precise geolocation data. List of partners.
+Your personal data will be processed and information from your device (cookies, unique identifiers, and other device data) may be stored by, accessed by and shared with 637 partners, or used specifically by this site. We and our partners may use precise geolocation data. List of partners.
 Some vendors may process your personal data on the basis of legitimate interest, which you can object to by managing your options below. Look for a link at the bottom of this page or in the site menu to manage or withdraw consent in privacy and cookie settings.
-
-
 
 Hello there! We take your privacy seriously, and want to be as transparent as possible. So: We (and our 109 partners) use cookies to collect some personal data from you. Some of these cookies we absolutely need in order to make things work, and others you can choose in order to optimize your experience while using our site and services. It's up to you!
 Additionally, we and our advertising partners store and/or access information on your device and also process personal data, like unique identifiers, browsing activity, and other standard information sent by your device including your IP address. This information is collected over time and used for personalised advertising, advertising measurement, audience research and services development, and product development specific to our ads program.
 If this sounds good to you, select "I Agree!" below. Otherwise, you can get more information, customize your consent preferences, or decline consent by selecting "Learn More". Note that your preferences apply only to Tumblr. If you change your mind in the future you can update your preferences any time by using the Privacy link beneath each ad. One last thing: Some of your data may be processed by our advertising partners based on legitimate interests instead of consent, but you can object to that by choosing "Learn More" and then disabling the Legitimate Interests toggle under any listed Purpose or Partner on their respective settings pages.
 
-
-We use cookies to personalize and enhance your experience on our site. Visit our Privacy Policy for more information on our data collections practices. By clicking Accept, you agree to our use of cookies for the purposes listed in the settings. To see a complete list of the companies that use these cookies and other technologies and to tell us whether they can be used on your device or not, access our Cookie Consent Tool. Your will see this message only once, but you will always be able to set your preferences at any time in the Cookie Consent Tool.
-
+We use cookies to personalize and enhance your experience on our site. Visit our Privacy Policy for more information on our data collections practices. By clicking Accept, you agree to our use of cookies for the purposes listed in the settings. To see a complete list of the companies that use these cookies and other technologies and to tell us whether they can be used on your device or not, access our Cookie Consent Tool. Your will see this message only once, but you will always be able to set your preferences at any time in the Cookie Consent Tool.
 
 Do you mind if we use optional cookies to provide you personalized content and to analyze site traffic?
-We don't use a lot of cookies; you can see and manage them at any time on our Cookie Settings page. If you click 'Accept All,' you consent to the use of cookies on Steam websites. Learn more about cookies in our Privacy Policy.
-
-
+We don't use a lot of cookies; you can see and manage them at any time on our Cookie Settings page. If you click 'Accept All,' you consent to the use of cookies on Steam websites. Learn more about cookies in our Privacy Policy.
