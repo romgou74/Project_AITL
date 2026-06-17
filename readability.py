@@ -27,11 +27,8 @@ file = " ".join(lst)
 
 file = re.sub(r'\s+', ' ', file).strip()  # normalize whitespace
 cleaned = file.lower()
-cleaned = re.sub(r"[^\w\s]", "", text)
+cleaned = re.sub(r"[^\w\s]", "", cleaned)
 cleaned = cleaned.split()
-
-def get_flesch(text):
-    return textstat.flesch_reading_ease(text)
 
 def get_flesch_reading(text):
     return textstat.flesch_reading_ease(text)
