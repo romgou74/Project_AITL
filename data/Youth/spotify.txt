@@ -1,0 +1,15 @@
+This policy describes how Spotify uses cookies and similar technologies (collectively, "cookies").
+
+Spotify uses two different main categories of cookies:
+
+1. Strictly necessary cookies
+2. Optional cookies
+
+Strictly necessary cookies are required to use Spotify services.
+
+Optional cookies include:
+
+* Functional first-party cookies
+* First-party performance cookies
+* First-party targeting cookies
+* Third-party cookies

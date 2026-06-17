@@ -1,0 +1,9 @@
+Letterboxd asks for your consent to use your personal data to:
+
+* Personalised advertising and content
+* Advertising and content measurement
+* Audience research
+* Services development
+* Store and/or access information on a device
+
+Your personal data may be processed and information from your device may be stored by, accessed by and shared with partners.

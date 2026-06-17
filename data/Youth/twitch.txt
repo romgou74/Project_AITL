@@ -1,0 +1,15 @@
+This Cookie Notice applies to your use of www.twitch.tv.
+
+Twitch uses certain technologies to collect information through Twitch Services.
+
+We refer to these technologies, including HTTP cookies, local storage, pixel tags and web beacons, collectively as "cookies."
+
+Types of cookies:
+
+* Session cookies
+* Persistent cookies
+* First-party cookies
+* Third-party cookies
+* Operational cookies
+* Analytics cookies
+* Advertising cookies
