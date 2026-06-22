@@ -35,10 +35,6 @@ vague_words = [
     "periodically", "regularly", "occasionally", "temporarily"
 ]
 
-#filename = sys.argv[1]
-
-#with open(filename, "r") as f:
-#    text = f.read()
 
 def cleaning_file(file) :
     """Function which 'cleans' up the file containing consent forms.
@@ -63,7 +59,6 @@ def cleaning_file(file) :
     cleaned = file.lower()
     return cleaned
 
-#text = cleaning_file(text)
 
 def sentence_length(file) :
     """Function which computes the average sentence length in a consent form
@@ -76,7 +71,6 @@ def sentence_length(file) :
     count = [len(s.split()) for s in sentences]
     return sum(count)/len(count)
 
-#print(f"Average sentence length {sentence_length(text)}")
 
 def vague_find(file) :
     """Function which computes the ratio of vague words for every 100 words in a consent form
@@ -91,4 +85,3 @@ def vague_find(file) :
         count += len(re.findall(r'\b' + word + r'\b', text_no_punct))
     return count/len(words)
 
-#print(f"Ratio of vague/ambiguous words : {vague_find(text)}")
